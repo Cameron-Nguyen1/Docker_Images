@@ -1,5 +1,0 @@
-use this command to continue
-
-snpEff build -c snpEff.config -gff3 -v MOV_200mg_1
-
-
