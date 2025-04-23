@@ -16,7 +16,7 @@ docker pull cameronnguyen/qualitycontrol
 docker pull cameronnguyen/sratoolkit
 ```
 ## Debian_VariantCalling: 
-:star: Contains Samtools, BCFtools, bowtie2. The purpose is to enable variant calling workflows.
+:star: Contains Samtools, BCFtools, Bowtie2, snpEff, and a small snpEff database. The purpose is to enable variant calling workflows.
 ```
 docker pull cameronnguyen/variant_calling
 ```
