@@ -17,4 +17,4 @@ WORKDIR /usr/local/work/
 ENTRYPOINT ["/bin/sh"]
 
 #Example
-#/usr/src/jdk-24.0.1/bin/java -jar /usr/src/snpEff/snpEff.jar -c /usr/local/work/snpEff.config -v SARS2 ./Covid19Mutations.vcf > ./VCF_EX_ANN.vcf
+#/usr/src/jdk-24.0.1/bin/java -jar /usr/src/snpEff/snpEff.jar -c /usr/local/work/snpEff.config -v SARS2 Covid19Mutations.vcf > VCF_EX_ANN.vcf
