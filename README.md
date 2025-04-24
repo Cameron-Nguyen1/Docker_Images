@@ -20,7 +20,7 @@ docker pull cameronnguyen/sratoolkit:latest
 ```
 docker pull cameronnguyen/variant_calling:latest
 ```
-## Antigenic Cartography
+## R_Antigenic_Cartography
 :star: Designed to run antgenic cartography on a .csv format file. Used in the following project: https://github.com/Cameron-Nguyen1/N204_data_availability
 ```
 docker pull cameronnguyen/cvrg-variant-calling:version1
