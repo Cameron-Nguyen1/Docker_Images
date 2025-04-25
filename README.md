@@ -28,3 +28,6 @@ docker pull cameronnguyen/cvrg-variant-calling:version1
 
 ## WDL_R_Antigenic_Cartography
 :star: WDL orchestrated implementation of antigenic cartography + QC checks on a .csv format file. Used in the following project: [AntigenicCartography-WDL](https://github.com/Cameron-Nguyen1/AntigenicCartography-WDL)
+```
+docker pull cameronnguyen/ac_qc:latest
+```
